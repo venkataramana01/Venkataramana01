@@ -1,132 +1,299 @@
-# Hi, I'm Achuta Leela Satya Sai Venkata Ramana 👋
+<div align="center">
 
-## 🚀 Full Stack Developer | AI Automation Builder
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Venkata%20Ramana%20Achuta&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-I am an aspiring Full Stack Developer and AI Automation Builder passionate about creating scalable web applications, AI-powered workflows, and intelligent automation systems.
+</div>
 
-I enjoy solving real-world problems by combining software development, databases, APIs, and Large Language Models (LLMs).
 
----
+<h1 align="center">
+👋 Hi, I'm Achuta Leela Satya Sai Venkata Ramana
+</h1>
 
-## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science & Technology Student
-- 📍 India
-- 💡 Interested in Full Stack Development, AI Agents, and Automation
-- 🔥 Building AI-powered applications using LLMs and workflow automation
-- 🧠 Strong problem-solving mindset
+<h3 align="center">
+🚀 Full Stack Developer | 🤖 AI Automation Builder | 💻 Software Developer
+</h3>
 
----
 
-## 🛠️ Tech Stack
+<p align="center">
+Building AI-powered applications, automation workflows and scalable web solutions.
+</p>
 
-### Programming Languages
-- Java
-- JavaScript
 
-### Frontend Development
-- HTML
-- CSS
-- JavaScript
-- React (Learning)
+<p align="center">
 
-### Backend & Database
-- Node.js
-- MongoDB
-- MySQL
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Automation+Builder;LLM+Application+Developer;Always+Learning+New+Technologies"/>
 
-### AI & Automation
-- Agentic AI Workflows
-- n8n
-- LLM Integrations
-- API Automation
+</p>
 
-### Tools
-- GitHub
-- Docker
-- Google Sheets API
-- Telegram API
 
 ---
 
-## 🚀 Featured Projects
+# 👨‍💻 About Me
 
-### 🤖 AI-Powered Finance Tracker Agent
 
-An AI automation system that tracks personal expenses through Telegram.
+```yaml
+Name:
+  Achuta Leela Satya Sai Venkata Ramana
 
-**Features:**
-- Telegram message integration
-- LLM-based transaction classification
-- Automatic extraction of:
-  - Date
-  - Category
-  - Amount
-  - Description
-  - Transaction Type
-- Google Sheets data storage
+Role:
+  Full Stack Developer
 
-**Tech Used:**
-`n8n` `Groq LLM` `Telegram API` `Google Sheets`
+Focus Areas:
+  - Web Development
+  - AI Automation
+  - LLM Applications
+  - Backend Development
 
----
+Education:
+  B.Tech Computer Science & Technology
 
-### 📧 AI Email Responder & Morning Digest
+CGPA:
+  8.9
 
-AI-powered email automation workflow.
-
-**Features:**
-- Automatically generates professional email replies
-- Filters automated emails
-- Creates daily email summaries
-- Logs email activity
-
-**Tech Used:**
-`n8n` `Gmail API` `LLM` `Google Sheets`
+Currently Learning:
+  React | AI Agents | Machine Learning
+```
 
 ---
 
-### ⚡ UPS Failure Prediction System (Ongoing)
+# 🛠️ Tech Stack
 
-Machine learning based predictive maintenance system.
 
-**Goal:**
-Predict UPS failures before they occur and reduce downtime.
+<div align="center">
 
-**Tech Used:**
-`Python` `Pandas` `Scikit-learn` `MongoDB`
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,docker" />
+
+
+</div>
+
+
+<br>
+
+
+## 🤖 AI & Automation
+
+
+<div align="center">
+
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-black?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/n8n-Automation-red?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LLM-Applications-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/API-Integration-orange?style=for-the-badge"/>
+
+
+</div>
+
 
 ---
 
-## 🏆 Achievements
+# 🚀 Projects
+
+
+## 🤖 AI Powered Finance Tracker Agent
+
+
+<img align="right" width="250" src="https://cdn-icons-png.flaticon.com/512/2593/2593635.png">
+
+
+AI-powered expense tracking automation system.
+
+
+### Features
+
+- Telegram expense input
+- AI message classification
+- Automatic transaction extraction
+- Google Sheets storage
+- Real-time workflow automation
+
+
+### Tech Stack
+
+```
+n8n
+Groq LLM
+Telegram API
+Google Sheets API
+Webhook
+```
+
+
+<br clear="right"/>
+
+
+
+---
+
+
+## 📧 AI Email Responder & Morning Digest
+
+
+<img align="right" width="250" src="https://cdn-icons-png.flaticon.com/512/561/561127.png">
+
+
+Smart AI email automation workflow.
+
+
+### Features
+
+- AI generated replies
+- Email filtering
+- Morning email summaries
+- Activity tracking
+
+
+### Tech Stack
+
+```
+n8n
+Gmail API
+LLM
+Google Sheets
+Automation
+```
+
+
+<br clear="right"/>
+
+
+
+---
+
+
+## ⚡ UPS Failure Prediction System
+
+
+<img align="right" width="250" src="https://cdn-icons-png.flaticon.com/512/2721/2721290.png">
+
+
+Machine Learning based predictive maintenance system.
+
+
+### Features
+
+- Failure prediction
+- Data analysis
+- Root cause analysis
+- Reduce downtime
+
+
+### Tech Stack
+
+```
+Python
+Pandas
+Scikit-learn
+MongoDB
+Random Forest
+```
+
+
+<br clear="right"/>
+
+
+
+---
+
+# 🏆 Achievements
+
+
+<div align="center">
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=venkataramanaachuta&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+
+</div>
+
 
 - 🥇 Solved 1000+ problems on CodeChef
-- 🏅 Earned CodeChef Gold Badge
-- Participated in Hackathon conducted by NIT AP
-- Volunteer at technical and professional development events
+- 🏅 CodeChef Gold Badge
+- 🚀 Hackathon Participant - NIT AP
+- 👨‍💻 Technical Event Volunteer
+
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
-- CRUD Operations - MongoDB
-- Java Problem Solving - CodeChef
-- MySQL - CodeChef
-- TCS iON Career Edge - Young Professional
 
----
+| Certification | Platform |
+|---|---|
+| Java Problem Solving | CodeChef |
+| MySQL | CodeChef |
+| MongoDB CRUD Operations | MongoDB |
+| Young Professional | TCS iON |
 
-## 📫 Connect With Me
-
-LinkedIn:
-https://www.linkedin.com/in/venkata-ramana-achuta-8374a62a1
-
-Portfolio:
-https://codo-lio.com/profile/venkataramana
-
-Email:
-venkataramanaachuta1@gmail.com
 
 ---
 
-⭐ Always learning, building, and exploring AI-driven software solutions.
+# 📊 GitHub Analytics
+
+
+<div align="center">
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=venkataramanaachuta&show_icons=true&theme=tokyonight"/>
+
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=venkataramanaachuta&theme=tokyonight"/>
+
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=venkataramanaachuta&theme=tokyo-night"/>
+
+
+</div>
+
+
+---
+
+# 🌐 Connect With Me
+
+
+<div align="center">
+
+
+<a href="https://www.linkedin.com/in/venkata-ramana-achuta-8374a62a1">
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+
+<a href="mailto:venkataramanaachuta1@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+
+</div>
+
+
+---
+
+<div align="center">
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer" width="100%"/>
+
+
+### ⭐ Learning • Building • Automating ⭐
+
+
+</div>
