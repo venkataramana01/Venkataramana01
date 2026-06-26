@@ -206,7 +206,7 @@ Random Forest
 <div align="center">
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=venkataramanaachuta&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=venkataramana01&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 
 </div>
