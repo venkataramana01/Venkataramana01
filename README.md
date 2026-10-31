@@ -86,7 +86,7 @@ A REST API for creating, reading, updating, and deleting tasks.
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<p align="center"><img src="assets/task-management-flow.svg" alt="Task Management Service request flow" width="100%"/></p>
+<p align="center"><img src="task-management-flow.svg" alt="Task Management Service request flow" width="100%"/></p>
 
 <details>
 <summary><b>Details</b></summary>
@@ -114,7 +114,7 @@ A Telegram bot that records expenses from plain messages and sends monthly summa
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 ![AI Agent](https://img.shields.io/badge/AI_Agent-1F6FEB?style=flat-square)
 
-<p align="center"><img src="assets/finance-tracker-flow.svg" alt="AI Finance Tracker workflow" width="100%"/></p>
+<p align="center"><img src="finance-tracker-flow.svg" alt="AI Finance Tracker workflow" width="100%"/></p>
 
 <details>
 <summary><b>Details</b></summary>
@@ -142,7 +142,7 @@ An email workflow that drafts replies and sends a daily summary of important mai
 ![LLM](https://img.shields.io/badge/LLM-8957E5?style=flat-square)
 ![AI Agent](https://img.shields.io/badge/AI_Agent-1F6FEB?style=flat-square)
 
-<p align="center"><img src="assets/email-automation-flow.svg" alt="AI Email Responder and Morning Digest workflow" width="100%"/></p>
+<p align="center"><img src="email-automation-flow.svg" alt="AI Email Responder and Morning Digest workflow" width="100%"/></p>
 
 <details>
 <summary><b>Details</b></summary>
